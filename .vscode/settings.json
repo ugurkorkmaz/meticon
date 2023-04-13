@@ -1,0 +1,36 @@
+{
+    "hide-files.files": [
+        ".npmrc",
+        ".github",
+        ".svelte-kit",
+        "node_modules",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "SECURITY.md",
+        "README.md",
+        "LICENSE",
+        "pnpm-lock.yaml",
+        ".vscode",
+        "static"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".npmrc": true,
+        ".github": true,
+        ".svelte-kit": true,
+        "node_modules": true,
+        "CODE_OF_CONDUCT.md": true,
+        "CONTRIBUTING.md": true,
+        "SECURITY.md": true,
+        "README.md": true,
+        "LICENSE": true,
+        "pnpm-lock.yaml": true,
+        ".vscode": true,
+        "static": true
+    }
+}
