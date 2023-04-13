@@ -18,6 +18,13 @@
     "type": "git",
     "url": "https://github.com/ugurkorkmaz/meticon.git"
   },
+  "bugs": {
+    "url": "https://github.com/ugurkorkmaz/meticon/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github/ugurkorkmaz/sponsors"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run package",
