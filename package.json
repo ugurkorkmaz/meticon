@@ -1,6 +1,23 @@
 {
   "name": "meticon",
+  "description": "A Google meterial icon library for Svelte",
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "sveltekit-component",
+    "icon",
+    "icons",
+    "meterial",
+    "google-meterial-icons",
+    "google-meterial-icons-svelte",
+    "google-meterial-icons-sveltekit"
+  ],
   "version": "0.0.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ugurkorkmaz/meticon.git"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run package",
@@ -17,9 +34,7 @@
     }
   },
   "files": [
-    "dist",
-    "!dist/**/*.test.*",
-    "!dist/**/*.spec.*"
+    "dist"
   ],
   "peerDependencies": {
     "svelte": "^3.54.0"
@@ -37,9 +52,5 @@
   },
   "svelte": "./dist/index.ts",
   "types": "./dist/index.d.ts",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ugurkorkmaz/meticon.git"
-  }
+  "type": "module"
 }
