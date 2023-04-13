@@ -16,7 +16,7 @@ Usage
 Import the component and use it in your Svelte template:
 
 
-```vue
+```svelte
 <script> 
 import Icon from "meticon";
 
