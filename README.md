@@ -8,7 +8,7 @@ Installation
 
 You can install this component using npm:
 
-`npm install svelte-material-icon`
+`npm install meticon`
 
 Usage
 -----
@@ -18,7 +18,7 @@ Import the component and use it in your Svelte template:
 
 ```vue
 <script> 
-import Icon from "svelte-material-icon";
+import Icon from "meticon";
 
   let iconName = "favorite";
   let iconType = "filled";

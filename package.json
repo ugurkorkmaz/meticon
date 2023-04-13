@@ -1,5 +1,5 @@
 {
-	"name": "icon",
+	"name": "meticon",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
