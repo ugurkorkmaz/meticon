@@ -1,9 +1,7 @@
 <script lang="ts">
-  import type { IconType } from "$lib";
-
   let className = "";
   let iconName = "";
-  let iconType: IconType = "outlined";
+  let iconType: "filled" | "outlined" | "round" | "sharp" | "two-tone" = "filled";
   let style = "";
   export { className as class, iconName as name, iconType as type, style };
 </script>
