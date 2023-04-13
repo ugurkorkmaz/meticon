@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within our project, please send an email to [meticon@ugurkorkmaz.net](mailto:job+meticon@ugurkorkmaz.net). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within our project, please send an email to [meticon@ugurkorkmaz.net](mailto:git+meticon@ugurkorkmaz.net). All security vulnerabilities will be promptly addressed.
 
 Please do not report security vulnerabilities through public GitHub issues.
 
