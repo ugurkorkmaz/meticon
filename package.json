@@ -23,8 +23,14 @@
   },
   "funding": {
     "type": "github",
-    "url": "https://github/ugurkorkmaz/sponsors"
+    "url": "https://github.com/ugurkorkmaz/sponsors"
   },
+  "author": {
+    "name": "Uğur Korkmaz",
+    "email": "git+meticon@ugurkorkmaz.net",
+    "url": "https://ugurkorkmaz.net",
+    "twitter": "@ugurkorkmaz"
+  }, 
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run package",
