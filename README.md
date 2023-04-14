@@ -8,7 +8,9 @@ Installation
 
 You can install this component using npm:
 
-`npm install meticon`
+```bash 
+npm install meticon
+```
 
 Usage
 -----
