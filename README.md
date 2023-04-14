@@ -18,9 +18,9 @@ Import the component and use it in your Svelte template:
 
 ```svelte
 <script> 
-import Icon from "meticon";
+import {Icon} from "meticon";
 
-  let iconName = "favorite";
+  let iconName = "person";
   let iconType = "filled";
   let className = "";
   let style = ""; 
