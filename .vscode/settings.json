@@ -1,7 +1,6 @@
 {
     "hide-files.files": [
         ".npmrc",
-        ".github",
         ".svelte-kit",
         "node_modules",
         "CODE_OF_CONDUCT.md",
@@ -10,8 +9,7 @@
         "README.md",
         "LICENSE",
         "pnpm-lock.yaml",
-        ".vscode",
-        "static"
+        ".vscode"
     ],
     "files.exclude": {
         "**/.git": true,
@@ -21,7 +19,6 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         ".npmrc": true,
-        ".github": true,
         ".svelte-kit": true,
         "node_modules": true,
         "CODE_OF_CONDUCT.md": true,
@@ -30,7 +27,6 @@
         "README.md": true,
         "LICENSE": true,
         "pnpm-lock.yaml": true,
-        ".vscode": true,
-        "static": true
+        ".vscode": true
     }
 }
