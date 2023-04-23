@@ -9,7 +9,8 @@
         "README.md",
         "LICENSE",
         "pnpm-lock.yaml",
-        ".vscode"
+        ".vscode",
+        ".github"
     ],
     "files.exclude": {
         "**/.git": true,
@@ -27,6 +28,7 @@
         "README.md": true,
         "LICENSE": true,
         "pnpm-lock.yaml": true,
-        ".vscode": true
+        ".vscode": true,
+        ".github": true
     }
 }
