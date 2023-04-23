@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/meticon/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="content-security-policy" content="">
+		<link rel="modulepreload" href="/meticon/_app/immutable/entry/start.fce989d1.js">
+		<link rel="modulepreload" href="/meticon/_app/immutable/chunks/index.019f7634.js">
+		<link rel="modulepreload" href="/meticon/_app/immutable/chunks/singletons.fc7d729c.js">
+		<link rel="modulepreload" href="/meticon/_app/immutable/entry/app.914b794b.js">
+	</head>
+	<body>
+		<div>
+			<script>
+				{
+					__sveltekit_n91dcv = {
+						env: {},
+						assets: "/meticon",
+						base: "/meticon",
+						element: document.currentScript.parentElement
+					};
+
+					Promise.all([
+						import("/meticon/_app/immutable/entry/start.fce989d1.js"),
+						import("/meticon/_app/immutable/entry/app.914b794b.js")
+					]).then(([kit, app]) => {
+						kit.start(app, __sveltekit_n91dcv.element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
